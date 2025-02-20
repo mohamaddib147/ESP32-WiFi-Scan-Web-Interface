@@ -36,6 +36,4 @@ This Arduino sketch for the ESP32 creates a simple web server that scans for nea
 
 Contributions are welcome!  Please open an issue or submit a pull request.
 
-## License
 
-[Choose a license - e.g., MIT, GPL, Apache 2.0]
